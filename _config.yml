@@ -1,0 +1,14 @@
+layout_spectrum: 0.5345228
+color:
+  saturation: 0.3755494
+  lightness: 0.6602644
+  brandStrength: 0.8932741
+  rhythmicContrast: 0.2846522
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.5204082
+name: Ming Tong Bank
